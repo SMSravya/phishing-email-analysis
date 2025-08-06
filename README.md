@@ -78,3 +78,8 @@ phishing-email-analysis/
 │   └── phishing_email.png
 ├── Phishing_Email_Analysis_Report.pdf
 ├── README.md
+
+## Author
+S M Sravya
+
+
